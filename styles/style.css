@@ -1,0 +1,25 @@
+* {
+
+    background-color: #1F2937;
+}
+
+.header {
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.header-links {
+
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 15px;
+}
+
+.header-logo{
+
+    color: #F9FAF8;
+    font-size: 24px;
+}
