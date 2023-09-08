@@ -103,3 +103,37 @@
     font-size: x-large;
 }
 
+.section4 {
+
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #3882F6;
+}
+
+.sign-up-message,
+.sign-up-button {
+
+    background-color: #3882F6;
+
+}
+
+.sign-up-text {
+
+    color: #E5E7EB;
+    font-size: x-large;
+    background-color: #3882F6;
+    
+
+}
+
+#sign-up-button {
+
+    background-color: #8da2c8;
+    height: 55px;
+    width: 150px;
+    border-radius: 20px;
+    
+
+
+}
