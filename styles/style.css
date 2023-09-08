@@ -20,7 +20,7 @@
     color: #E5E7EB;
 }
 
-.header-logo{
+.header-logo {
 
     color: #F9FAF8;
     font-size: 24px;
@@ -30,7 +30,7 @@
 
     display: flex;
     margin: 10px;
-    justify-content: space-evenly ;
+    justify-content: space-evenly;
 }
 
 .section-one-signup {
@@ -40,7 +40,7 @@
 
 }
 
-.random{
+.random {
 
     background-color: aquamarine;
     height: auto;
@@ -72,9 +72,19 @@
 
 }
 
-.option-image{
+.option-image {
 
     border: 10px solid silver;
     width: 250px;
     height: auto;
+
+}
+
+.image-block-1,
+.image-block-2,
+.image-block-3 {
+
+    color: #F9FAF8;
+    font-size: large;
+
 }
