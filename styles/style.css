@@ -130,10 +130,23 @@
 #sign-up-button {
 
     background-color: #8da2c8;
-    height: 55px;
-    width: 150px;
+    height: 30px;
+    width: 100px;
     border-radius: 20px;
-    
 
+}
+
+.footer{
+
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-text {
+
+    color: #E5E7EB;
+    font-size: x-large;
 
 }
