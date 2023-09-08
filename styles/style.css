@@ -25,3 +25,25 @@
     color: #F9FAF8;
     font-size: 24px;
 }
+
+.section1 {
+
+    display: flex;
+    margin: 10px;
+    justify-content: space-evenly ;
+}
+
+.section-one-signup {
+
+    color: #F9FAF8;
+    font-size: 24px;
+
+}
+
+
+.main-image {
+
+    border: 10px solid silver;
+    width: 500px;
+    height: auto;
+}
