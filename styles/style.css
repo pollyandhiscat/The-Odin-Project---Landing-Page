@@ -88,3 +88,18 @@
     font-size: large;
 
 }
+
+.section3 {
+
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #E5E7EB;
+
+}
+
+.quote, #quote {
+
+    background-color: #E5E7EB;
+    font-size: x-large;
+}
+
